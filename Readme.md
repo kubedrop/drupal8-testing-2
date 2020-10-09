@@ -16,7 +16,6 @@ are documented in the table below.
 ## NOTE:
 Due to an issue as of now PHP_VERSION has to be updated in Tiltfile as well.
 ---
-
 ### Configuring Runtime:
 
 ##### These values can be configure using [.env](.env) file
